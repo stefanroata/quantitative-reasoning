@@ -1,0 +1,501 @@
+Name,Company,Pay,Age
+Richard D Fairbank,Capital One Financial,24942e4,>=50
+Terry S Semel,Yahoo,230555e3,>=50
+Henry R Silverman,Cendant,13996e4,>=50
+Bruce Karatz,KB Home,13553e4,>=50
+Richard S Fuld Jr,Lehman Bros Holdings,12267e4,>=50
+Ray R Irani,Occidental Petroleum,8073e4,>=50
+Lawrence J Ellison,Oracle,7533e4,>=50
+John W Thompson,Symantec,7184e4,>=50
+Edwin M Crawford,Caremark Rx,6966e4,>=50
+Angelo R Mozilo,Countrywide Financial,68955e3,>=50
+John T Chambers,Cisco Systems,6299e4,>=50
+R Chad Dreier,Ryland Group,5647e4,>=50
+Lew Frankfort,Coach,5599e4,>=50
+Ara K Hovnanian,Hovnanian Enterprises,4783e4,<50
+John G Drosdick,Sunoco,4619e4,>=50
+Robert I Toll,Toll Brothers,4131e4,>=50
+Robert J Ulrich,Target,39635e3,>=50
+Kevin B Rollins,Dell,39315e3,>=50
+Clarence P Cazalot Jr,Marathon Oil,3748e4,>=50
+David C Novak,Yum Brands,3742e4,>=50
+Mark G Papa,EOG Resources,3654e4,>=50
+Henri A Termeer,Genzyme,3638e4,>=50
+Richard C Adkerson,Freeport Copper,3541e4,>=50
+Kevin W Sharer,Amgen,3449e4,>=50
+Jay Sugarman,IStar Financial,32935000.000000004,<50
+George David,United Technologies,32729999.999999996,>=50
+Bob R Simpson,XTO Energy,32189999.999999996,>=50
+J Terrence Lanni,MGM Mirage,3154e4,>=50
+Paul E Jacobs,Qualcomm,31436e3,>=50
+Stephen F Bollenbach,Hilton Hotels,31435e3,>=50
+James J Mulva,ConocoPhillips,3134e4,>=50
+John J Mack,Morgan Stanley,3123e4,>=50
+Ronald A Williams,Aetna,30866e3,>=50
+David J Lesar,Halliburton,2936e4,>=50
+H Edward Hanway,Cigna,2882e4,>=50
+James E Cayne,Bear Stearns Cos,284e5,>=50
+Daniel P Amos,Aflac,2797e4,>=50
+Kent J Thiry,DaVita,27885e3,>=50
+John W Rowe,Exelon,269e5,>=50
+James M Cornelius,Guidant,2518e4,>=50
+John B Hess,Amerada Hess,249e5,>=50
+Harold W McGraw III,McGraw-Hill Cos,2472e4,>=50
+Michael J Ward,CSX,2381e4,>=50
+K Rupert Murdoch,News Corp,2364e4,>=50
+Paul M Montrone,Fisher Scientific,2343e4,>=50
+John C Martin,Gilead Sciences,2286e4,>=50
+Robert L Nardelli,Home Depot,22805e3,>=50
+Stuart A Miller,Lennar,2253e4,<50
+E Stanley O'Neal,Merrill Lynch,2241e4,>=50
+J Raymond Elliott,Zimmer Holdings,2239e4,>=50
+Charles R Schwab,Charles Schwab,222e5,>=50
+Henry C Duques,First Data,2205e4,>=50
+Thomas E Freston,Viacom,NA,>=50
+Marion O Sandler,Golden West Finl,2174e4,>=50
+Ramani Ayer,Hartford Finl Service,215e5,>=50
+Samuel J Palmisano,IBM,213e5,>=50
+Paul C Saville,NVR,2023e4,>=50
+Leslie Moonves,CBS,NA,>=50
+Charles O Prince,Citigroup,1994e4,>=50
+Lewis B Campbell,Textron,1993e4,>=50
+J Willard Marriott Jr,Marriott Intl,1971e4,>=50
+Ronald L Sargent,Staples,1965e4,>=50
+Steven A Burd,Safeway,19475e3,>=50
+Edward E Whitacre Jr,AT&T,1946e4,>=50
+Gary D Forsee,Sprint Nextel,1942e4,>=50
+Kenneth I Chenault,American Express,1928e4,>=50
+Jeffrey R Immelt,General Electric,1923e4,>=50
+William P Foley II,Fidelity National Finl,18765e3,>=50
+Stephen W Sanger,General Mills,1861e4,>=50
+Donald J Tomnitz,DR Horton,1824e4,>=50
+Henry A McKinnell,Pfizer,1813e4,>=50
+Eli Harari,SanDisk,1812e4,>=50
+Thomas M Ryan,CVS,18e6,>=50
+R Scot Sellers,Archstone-Smith,1782e4,<50
+Edward M Liddy,Allstate,1779e4,>=50
+Scott A Wolstein,Developers Diversified,1754e4,>=50
+John E Bryson,Edison International,171e5,>=50
+Louis C Camilleri,Altria Group,1701e4,>=50
+Alan G Lafley,Procter & Gamble,1687e4,>=50
+James E Rohr,PNC Financial Services,1677e4,>=50
+Henry M Paulson Jr,Goldman Sachs Group,16399999.999999998,>=50
+Joseph Neubauer,Aramark,1616e4,>=50
+Hugh Grant,Monsanto,1611e4,<50
+Michael W Perry,IndyMac Bancorp,1592e4,<50
+Dan F Smith,Lyondell Chemical,1561e4,>=50
+Arthur F Ryan,Prudential Financial,1561e4,>=50
+E James Ferland,Pub Svc Enterprise,1554e4,>=50
+Raymond A Mason,Legg Mason,1537e4,>=50
+Richard M Kovacevich,Wells Fargo,1516e4,>=50
+Thomas P Mac Mahon,Laboratory Corp Amer,15155e3,>=50
+Mark Hurd,Hewlett-Packard,1514e4,<50
+Robert K Cole,New Century Financial,1463e4,>=50
+G Steven Farris,Apache,1444e4,>=50
+Ralph Lauren,Polo Ralph Lauren,1436e4,>=50
+George A Roche,T Rowe Price,1407e4,>=50
+Alexander M Cutler,Eaton,1402e4,>=50
+F Duane Ackerman,BellSouth,1397e4,>=50
+J Steven Whisler,Phelps Dodge,13855e3,>=50
+Kerry K Killinger,Washington Mutual,1376e4,>=50
+Douglas L Rock,Smith International,1364e4,>=50
+William D Zollars,YRC Worldwide,1362e4,>=50
+John D Wren,Omnicom Group,13485e3,>=50
+Thomas A Renyi,Bank of New York,1344e4,>=50
+Brian L Roberts,Comcast,1336e4,<50
+Steven S Reinemund,PepsiCo,1333e4,>=50
+Matthew K Rose,Burlington Santa Fe,1327e4,<50
+James J O'Brien,Ashland,1327e4,>=50
+Scott G McNealy,Sun Microsystems,1309e4,>=50
+William Wrigley Jr,Wm Wrigley Jr,13e6,<50
+Sidney Taurel,Eli Lilly and Co,1295e4,>=50
+J Brett Harvey,Consol Energy,1287e4,>=50
+G Kennedy Thompson,Wachovia,1272e4,>=50
+Van B Honeycutt,Computer Sciences,1269e4,>=50
+Lawrence F Probst III,Electronic Arts,1259e4,>=50
+Bruce Chizen,Adobe Systems,1255e4,>=50
+Edward J Zander,Motorola,1254e4,>=50
+Steve Odland,Office Depot,1253e4,<50
+Arthur D Collins Jr,Medtronic,1224e4,>=50
+John T Cahill,Pepsi Bottling Group,1223e4,<50
+Robert A Iger,Walt Disney,12176e3,>=50
+Reuben Mark,Colgate-Palmolive,1207e4,>=50
+Joel W Johnson,Hormel Foods,1206e4,>=50
+Michael D Fraizer,Genworth Financial,1177e4,<50
+Alan L Boeckmann,Fluor,1156e4,>=50
+Edward H Linde,Boston Properties,1155e4,>=50
+Jon A Boscia,Lincoln National,11405e3,>=50
+James C Mullen,Biogen Idec,11405e3,<50
+Robert W Lane,Deere & Co,1111e4,>=50
+James Dimon,JPMorgan Chase,11036e3,>=50
+Martin J Sullivan,American Intl Group,11e6,>=50
+William R Klesse,Valero Energy,10916e3,>=50
+Joseph W Luter III,Smithfield Foods,108e5,>=50
+William W McGuire,UnitedHealth Group,107e5,>=50
+Richard D Parsons,Time Warner,1064e4,>=50
+Mark S McAndrew,Torchmark,10506e3,>=50
+H Lee Scott Jr,Wal-Mart Stores,10465e3,>=50
+John T Schuessler,Wendy's International,104e5,>=50
+Paul T Hanrahan,AES,103e5,<50
+David N Farr,Emerson Electric,102e5,>=50
+Larry C Glasscock,WellPoint,10165e3,>=50
+R Lawrence Montgomery,Kohl's,1005e4,>=50
+Anthony J Alexander,FirstEnergy,998e4,>=50
+Gary W Loveman,Harrah's Entertain,994e4,<50
+Robert J Genader,Ambac Financial Group,988e4,>=50
+Timothy R Eller,Centex,978e4,>=50
+Bruce A Smith,Tesoro,978e4,>=50
+David M Cote,Honeywell,974e4,>=50
+James T Hackett,Anadarko Petroleum,974e4,>=50
+Keith D Nosbusch,Rockwell Automation,964e4,>=50
+Norman H Wesley,Fortune Brands,96e5,>=50
+L Patrick Hassey,Allegheny Technologies,941e4,>=50
+J Barry Griswell,Principal Financial,938e4,>=50
+Robert L Moody,American Natl Ins,936e4,>=50
+Lawrence R Johnston,Albertsons,929e4,>=50
+Mayo A Shattuck III,Constellation Energy,9085e3,>=50
+William R Berkley,WR Berkley,907e4,>=50
+Hector de J Ruiz,Advanced Micro,902e4,>=50
+Jeffrey S Lorberbaum,Mohawk Industries,896e4,>=50
+James M Cracchiolo,Ameriprise Financial,883e4,<50
+Mitchell H Caplan,E-Trade Financial,8815e3,<50
+David J O'Reilly,Chevron,88e5,>=50
+Frederic M Poses,American Standard,878e4,>=50
+James L Dolan,Cablevision NY Group,8715e3,>=50
+Frederick W Smith,FedEx,867e4,>=50
+Craig S Donohue,Chicago Mercantile,861e4,<50
+Richard J Dugas Jr,Pulte Homes,859e4,<50
+Ronald D Sugar,Northrop Grumman,856e4,>=50
+Mark Donegan,Precision Castparts,854e4,<50
+John H Hammergren,McKesson,848e4,<50
+George A Schaefer Jr,Fifth Third Bancorp,846e4,>=50
+Paul J Curlander,Lexmark International,846e4,>=50
+William C Weldon,Johnson & Johnson,845e4,>=50
+H Lawrence Culp Jr,Danaher,8369999.999999999,<50
+John D Johns,Protective Life,827e4,>=50
+Miles D White,Abbott Laboratories,824e4,>=50
+John P Surma,US Steel,816e4,>=50
+Daniel R DiMicco,Nucor,815e4,>=50
+Glenn M Renwick,Progressive,8140000.000000001,>=50
+Ivan G Seidenberg,Verizon Commun,808e4,>=50
+David N Weidman,Celanese,802e4,>=50
+Robert D Walter,Cardinal Health,798e4,>=50
+Arthur F Weinbach,Automatic Data,797e4,>=50
+Paul S Otellini,Intel,788e4,>=50
+Edward J Ludwig,"Becton, Dickinson",784e4,>=50
+Nicholas D Chabraja,General Dynamics,782e4,>=50
+Joseph R Tomkinson,Impac Mortgage Holding,7785e3,>=50
+Gregory H Boyce,Peabody Energy,7786e3,>=50
+Richard F Syron,Freddie Mac,7765e3,>=50
+Ronald E Logue,State Street,773e4,>=50
+Christopher M Connor,Sherwin-Williams,77e5,>=50
+Anne M Mulcahy,Xerox,764e4,>=50
+Mark C Pigott,Paccar,763e4,>=50
+Nolan D Archibald,Black & Decker,753e4,>=50
+Dale B Wolf,Coventry Health Care,NA,>=50
+John Swainson,CA,741e4,>=50
+Kenneth D Lewis,Bank of America,74e5,>=50
+Donald E Felsinger,Sempra Energy,7346e3,>=50
+Scott D Sheffield,Pioneer Natural Res,733e4,>=50
+Scott T Ford,Alltel,728e4,<50
+William A Osborn,Northern Trust,725e4,>=50
+William F Hecht,PPL,72e5,>=50
+Surya N Mohapatra,Quest Diagnostics,717e4,>=50
+Richard A Manoogian,Masco,715e4,>=50
+Bryce Blair,Avalonbay Communities,714e4,<50
+Dennis H Reilley,Praxair,707e4,>=50
+Robert J Keegan,Goodyear,696e4,>=50
+J Brian Ferguson,Eastman Chemical,691e4,>=50
+Terry J Lundgren,Federated Dept Strs,69e5,>=50
+Russell Goldsmith,City National,69e5,>=50
+Ronald E Hermance Jr,Hudson City Bancorp,6825e3,>=50
+R David Hoover,Ball,676e4,>=50
+Patricia F Russo,Lucent Technologies,676e4,>=50
+J Larry Nichols,Devon Energy,6745e3,>=50
+Vernon W Hill II,Commerce Bancorp,6585e3,>=50
+John M Barth,Johnson Controls,656e4,>=50
+Leslie H Wexner,Limited Brands,6565e3,>=50
+Theodore M Solso,Cummins,653e4,>=50
+Myron E Ullman III,JC Penney,652e4,>=50
+Luke R Corbett,Kerr-McGee,652e4,>=50
+E Neville Isdell,Coca-Cola,649e4,>=50
+Ian M Cumming,Leucadia National,6445e3,>=50
+John F Gifford,Maxim Integrated Prods,64e5,>=50
+Jerry A Grundhofer,US Bancorp,638e4,>=50
+Lewis Hay III,FPL Group,6345e3,>=50
+Glen F Post III,CenturyTel,628e4,>=50
+Mark A King,Affiliated Computer,6216e3,<50
+David A Daberko,National City,612e4,>=50
+John Adam Kanas,North Fork Bancorp,6025e3,>=50
+Joel F Gemunder,Omnicare,6025e3,>=50
+Robert S Miller,Delphi,6e6,>=50
+C Dowd Ritter,AmSouth Bancorp,6e6,>=50
+Henry L Meyer III,KeyCorp,596e4,>=50
+William H Swanson,Raytheon,593e4,>=50
+Michael J Jackson,AutoNation,5895e3,>=50
+Robert A Essner,Wyeth,585e4,>=50
+Wendell P Weeks,Corning,584e4,<50
+Michael G Morris,American Electric,582e4,>=50
+Fred Hassan,Schering-Plough,579e4,>=50
+Donald E Washkewicz,Parker-Hannifin,575e4,>=50
+Steven R Loranger,ITT Industries,574e4,>=50
+John P Jones III,Air Prods & Chems,567e4,>=50
+Stephen M Bennett,Intuit,565e4,>=50
+Chase Carey,Directv Group,5645e3,>=50
+Richard C Notebaert,Qwest Communications,56e5,>=50
+J Wayne Leonard,Entergy,559e4,>=50
+David L Kyle,Oneok,558e4,>=50
+Robert B Pollock,Assurant,NA,>=50
+Gregory E Johnson,Franklin Resources,557e4,<50
+John H Tyson,Tyson Foods,554e4,>=50
+Peter R Dolan,Bristol-Myers Squibb,554e4,>=50
+C Robert Henrikson,MetLife,5506e3,>=50
+Robert A Niblock,Lowe's Cos,55e5,<50
+Peter A Darbee,PG&E,547e4,>=50
+Jay S Fishman,St Paul Travelers,547e4,>=50
+Paul R Charron,Liz Claiborne,545e4,>=50
+John C Plant,TRW Automotive Hldgs,543e4,>=50
+John A Allison IV,BB&T,538e4,>=50
+Antonio M Perez,Eastman Kodak,535e4,>=50
+Douglas R Conant,Campbell Soup,532e4,>=50
+Jerald G Fishman,Analog Devices,527e4,>=50
+Dennis J Kuester,Marshall & Ilsley,521e4,>=50
+John D Finnegan,Chubb,521e4,>=50
+W James McNerney Jr,Boeing,515e4,>=50
+William Clay Ford Jr,Ford Motor,514e4,<50
+Rick R Holley,Plum Creek Timber,506e4,>=50
+Daniel J Starks,St Jude Medical,504e4,>=50
+Anthony F Earley Jr,DTE Energy,502e4,>=50
+Gary C Dunton,MBIA,501e4,>=50
+Robert P May,Calpine,5e6,>=50
+C John Wilder,TXU,496e4,<50
+Joseph M Tucci,EMC,49e5,>=50
+G Richard Wagoner Jr,General Motors,4825e3,>=50
+Michel Mayer,Freescale Semi,479e4,<50
+Robert J Stevens,Lockheed Martin,478e4,>=50
+Gregg L Engles,Dean Foods,4755e3,<50
+D Paul Jones Jr,Compass Bancshares,473e4,>=50
+John V Faraci,International Paper,471e4,>=50
+Richard D Kincaid,Equity Office Prop,4605e3,<50
+Steven J Malcolm,Williams Cos,4565e3,>=50
+Ronald L Hoffman,Dover,451e4,>=50
+David B Dillon,Kroger,4495e3,>=50
+Michael J Critelli,Pitney Bowes,449e4,>=50
+Wesley W von Schack,Energy East,4445e3,>=50
+Joel V Staff,Reliant Energy,439e4,>=50
+Michael F Johnston,Visteon,438e4,>=50
+Peter R Huntsman,Huntsman,437e4,<50
+Paul S Pressler,Gap,43e5,<50
+James W Owens,Caterpillar,4285e3,>=50
+Richard J Schnieders,Sysco,426e4,>=50
+James D Sinegal,Costco Wholesale,425e4,>=50
+Andrew N Liveris,Dow Chemical,425e4,>=50
+George W Buckley,3M,42e5,>=50
+James M Jenness,Kellogg,4190000.0000000005,>=50
+Mark G Parker,NIKE,4166000.0000000005,>=50
+James A Skinner,McDonald's,416e4,>=50
+Steven R Rogel,Weyerhaeuser,4150000.0000000005,>=50
+Marshall O Larsen,Goodrich,413e4,>=50
+Christopher J Nassetta,Host Marriott,4135e3,<50
+Rex W Tillerson,ExxonMobil,NA,>=50
+Peter J Rose,Expeditors Intl,4099999.9999999995,>=50
+James R Young,Union Pacific,4075999.9999999995,>=50
+Richard L Keyser,WW Grainger,4059999.9999999995,>=50
+Donald K Peterson,Avaya,4030000.0000000005,>=50
+Mark A Angelson,RR Donnelley & Sons,4e6,>=50
+Jackson W Moore,Regions Financial,399e4,>=50
+Vincent A Gierer Jr,UST,398e4,>=50
+William B Timmerman,Scana,391e4,>=50
+James D Taiclet Jr,American Tower,389e4,<50
+Jeffrey M Peek,CIT Group,386e4,>=50
+David J Neithercut,Equity Residential,NA,>=50
+Susan M Ivey,Reynolds American,376e4,<50
+Ralph W Babb Jr,Comerica,375e4,>=50
+Jack O Bovender Jr,HCA,3745e3,>=50
+Sheldon G Adelson,Las Vegas Sands,369e4,>=50
+Richard C Kelly,Xcel Energy,367e4,>=50
+Michael G Cherkasky,Marsh & McLennan,364e4,>=50
+Trevor Fetter,Tenet Healthcare,364e4,<50
+R David Yost,AmerisourceBergen,362e4,>=50
+Robert A Eckert,Mattel,3605e3,>=50
+Barry Diller,IAC/InterActiveCorp,3595e3,>=50
+Jeffrey Noddle,Supervalu,355e4,>=50
+David W Bernauer,Walgreen,354e4,>=50
+Daniel H Mudd,Fannie Mae,354e4,<50
+William R Johnson,HJ Heinz,351e4,>=50
+Steven Roth,Vornado Realty,3495e3,>=50
+Carl H Lindner III,American Finl Group,NA,>=50
+Richard H Lenny,Hershey,348e4,>=50
+Clayton M Jones,Rockwell Collins,346e4,>=50
+Raymond W McDaniel Jr,Moody's,346e4,<50
+Steven J Heyer,Starwood Hotels,346e4,>=50
+Robert B McGehee,Progress Energy,346e4,>=50
+Alain J P Belda,Alcoa,345e4,>=50
+Scott A McGregor,Broadcom,344e4,>=50
+Raj L Gupta,Rohm and Haas,343e4,>=50
+Aylin B Lewis,Sears Holdings,342e4,>=50
+David M Ratcliffe,Southern Co,3415e3,>=50
+Ronald M DeFeo,Terex,3415e3,>=50
+William P Lauder,Estee Lauder Cos,34e5,<50
+Gregory C Case,Aon,338e4,<50
+Curt S Culver,MGIC Investment,337e4,>=50
+Thomas J Fitzpatrick,SLM,335e4,>=50
+John A Edwardson,CDW,335e4,>=50
+Michael B McCallister,Humana,333e4,>=50
+Jeff M Fettig,Whirlpool,332e4,<50
+James S Tisch,Loews,331e4,>=50
+Dustan E McCoy,Brunswick,3286e3,>=50
+G Allen Andreas,Archer Daniels,328e4,>=50
+Dean A Scarborough,Avery Dennison,325e4,>=50
+Jeffrey A Joerres,Manpower,321e4,<50
+Lars Westerberg,Autoliv,32e5,>=50
+Jeffrey H Schwartz,ProLogis,319e4,<50
+David E I Pyott,Allergan,318e4,>=50
+Robert B Catell,KeySpan,3185e3,>=50
+Wayne W Murdy,Newmont Mining,317e4,>=50
+Charles O Holliday Jr,EI du Pont de Nemours,317e4,>=50
+W Leo Kiely III,Molson Coors Brewing,3175e3,>=50
+Gale E Klappa,Wisconsin Energy,317e4,>=50
+Robert L Parkinson Jr,Baxter International,316e4,>=50
+Chad C Deaton,Baker Hughes,313e4,>=50
+Gregory M Spierkel,Ingram Micro,NA,<50
+Sanford A Ibrahim,Radian Group,309e4,>=50
+Richard K Templeton,Texas Instruments,307e4,<50
+David B Speer,Illinois Tool Works,3056e3,>=50
+Douglas M Baker,Ecolab,304e4,<50
+James R Tobin,Boston Scientific,303e4,>=50
+Joseph R Ficalora,New York Community,3025e3,>=50
+Daniel C Ustian,Navistar Intl,2955e3,>=50
+Charles E Bunch,PPG Industries,294e4,>=50
+Mackey J McDonald,VF,293e4,>=50
+Margaret C Whitman,Ebay,2915e3,<50
+Aubrey K McClendon,Chesapeake Energy,2895e3,<50
+William V Hickey,Sealed Air,286e4,>=50
+Michael H Jordan,Electronic Data Sys,285e4,>=50
+Blake W Nordstrom,Nordstrom,2825e3,<50
+Robert E Lowder,Colonial BancGroup,277e4,>=50
+David Simon,Simon Property Group,273e4,<50
+Claiborne P Deming,Murphy Oil,273e4,>=50
+Douglas L Foshee,El Paso,272e4,<50
+James L Donald,Starbucks,27e5,>=50
+Stephen P MacMillan,Stryker,268e4,<50
+Mark D Ketchum,Newell Rubbermaid,253e4,>=50
+Thomas J Falk,Kimberly-Clark,249e4,<50
+Donald M James,Vulcan Materials,2495e3,>=50
+Charles W Moorman IV,Norfolk Southern,2486e3,>=50
+Neil Smit,Charter Commun,242e4,<50
+Charles D Davidson,Noble Energy,241e4,>=50
+L Phillip Humann,SunTrust Banks,24e5,>=50
+Michael J Burns,Dana,2405e3,>=50
+Thomas R Watjen,UnumProvident,237e4,>=50
+Parker S Kennedy,First American,2365e3,>=50
+Bradbury H Anderson,Best Buy,234e4,>=50
+Richard Sands,Constellation Brands,23e5,>=50
+J W Stewart,BJ Services,23e5,>=50
+David P Steiner,Waste Management,229e4,<50
+Paul S Beideman,Associated Banc-Corp,227e4,>=50
+David M McClanahan,CenterPoint Energy,2265e3,>=50
+Kenneth M Jastrow II,Temple-Inland,225e4,>=50
+Edward J Kelly III,Mercantile Bkshs,224e4,>=50
+Thomas C Gallagher,Genuine Parts,223e4,>=50
+Richard T Clark,Merck & Co,223e4,>=50
+William E Mitchell,Arrow Electronics,22e5,>=50
+Frank C Lanza,L-3 Communications,218e4,>=50
+Harris H Simmons,Zions Bancorp,218e4,>=50
+Thomas J Matthews,Intl Game Technology,217e4,<50
+Joseph H Moglia,TD Ameritrade Holding,217e4,>=50
+Philip J Schoonover,Circuit City Stores,217e4,<50
+Christopher J Kearney,SPX,214e4,>=50
+Daniel E Berce,AmeriCredit,2126e3,>=50
+Timothy L Main,Jabil Circuit,21e5,<50
+Brian L Halla,Natl Semiconductor,2089999.9999999998,>=50
+John A Luke Jr,MeadWestvaco,208e4,>=50
+Paula G Rosput Reynolds,Safeco,204e4,>=50
+Edward R Muller,Mirant,202e4,>=50
+Craig A Dubow,Gannett,2025999.9999999998,>=50
+Gary L Rainwater,Ameren,202e4,>=50
+W G Jurgensen,Nationwide Financial,2009999.9999999998,>=50
+William S Kirsch,Conseco,2e6,<50
+John P Wiehoff,CH Robinson Worldwide,199e4,<50
+Lothar Maier,Linear Technology,197e4,>=50
+David A Perdue Jr,Dollar General,1945e3,>=50
+Richard E Anthony,Synovus Finl,1946e3,>=50
+Lowry F Kline,Coca-Cola Enterprises,1926e3,>=50
+Clarence Otis Jr,Darden Restaurants,191e4,>=50
+David B Snow Jr,Medco Health,1915e3,>=50
+Patrick T Stokes,Anheuser-Busch Cos,189e4,>=50
+A C Zucaro,Old Republic Intl,1885e3,>=50
+Dennis R Wrasse,Pepco Holdings,183e4,>=50
+John J Zillmer,Allied Waste Inds,183e4,>=50
+Patrick J Moore,Smurfit-Stone,182e4,>=50
+Paul C Varga,Brown-Forman,1796e3,<50
+Roy Vallee,Avnet,179e4,>=50
+Jay S Sidhu,Sovereign Bancorp,1785e3,>=50
+Felix E Wright,Leggett & Platt,175e4,>=50
+Thomas F Farrell II,Dominion Resources,1756e3,>=50
+Joseph V Vumbacco,Health Management,171e4,>=50
+Jeffery W Yabuki,Fiserv,168e4,<50
+Howard Solomon,Forest Labs,165e4,>=50
+David W Joos,CMS Energy,NA,>=50
+Richard L Carrion,Popular,162e4,>=50
+Michael R Splinter,Applied Materials,161e4,>=50
+William R Nuti,NCR,161e4,<50
+Todd S Nelson,Apollo-Education Group,153e4,<50
+Kevin Burke,Consolidated Edison,1536e3,>=50
+Charles W Shivery,Northeast Utilities,153e4,>=50
+Andrea Jung,Avon Products,149e4,<50
+Steven R Appleton,Micron Technology,147e4,<50
+Douglas M Steenland,Northwest Airlines,NA,>=50
+Robert E Rossiter,Lear,143e4,>=50
+Brenda C Barnes,Sara Lee,1436e3,>=50
+Jonathan J Judge,Paychex,141e4,>=50
+Mark A Ernst,H&R Block,14e5,<50
+J Kenneth Glass,First Horizon National,139e4,>=50
+Ronald L Havner Jr,Public Storage,138e4,<50
+Dennis J FitzSimons,Tribune,136e4,>=50
+Eric Claus,Great A&P Tea,135e4,<50
+Mary F Sammons,Rite Aid,132e4,>=50
+James L Ziemer,Harley-Davidson,129e4,>=50
+John Chapple,Nextel Partners,126e4,>=50
+Michael L Eskew,United Parcel Service,125e4,>=50
+William C Rhodes III,AutoZone,123e4,<50
+Robert E Sadler Jr,M&T Bank,122e4,>=50
+Thomas E Hoaglin,Huntington Bancshs,121e4,>=50
+Scott Kriens,Juniper Networks,121e4,<50
+Michael I Roth,Interpublic Group,12e5,>=50
+Milton Cooper,Kimco Realty,1205e3,>=50
+Richard P Wallace,KLA-Tencor,1186e3,<50
+John J Schiff Jr,Cincinnati Financial,115e4,>=50
+Glenn F Tilton,UAL,112e4,>=50
+Fredric W Corrigan,Mosaic,11e5,>=50
+Donald E Graham,Washington Post,11e5,>=50
+George Paz,Express Scripts,NA,>=50
+Robert W Matschullat,Clorox,105e4,>=50
+Merrill A Miller Jr,National Oilwell Varco,1034999.9999999999,>=50
+Steven H Temares,Bed Bath & Beyond,103e4,<50
+Jay M Gellert,Health Net,1034999.9999999999,>=50
+Lawrence W Kellner,Continental Airlines,103e4,<50
+Steven A Ballmer,Microsoft,101e4,>=50
+Bernard Cammarata,TJX Cos,1e6,>=50
+Dara Khosrowshahi,Expedia,1e6,<50
+Gregory B Maffei,Liberty Media,1e6,<50
+Gary M Rodkin,ConAgra Foods,1e6,>=50
+Robert P Kelly,Mellon Finl,98e4,>=50
+Robert C Skaggs Jr,NiSource,95e4,>=50
+Charles W Ergen,EchoStar Commun,92e4,>=50
+Mark P Mays,Clear Channel Commun,9e5,<50
+Scott D Farmer,Cintas,88e4,<50
+Daniel P Hann,Biomet,686e3,>=50
+Gerard J Arpey,AMR,655e3,<50
+Gary C Kelly,Southwest Airlines,NA,>=50
+Gerald Grinstein,Delta Air Lines,45e4,>=50
+John Bucksbaum,General Growth Prop,235e3,<50
+Warren E Buffett,Berkshire Hathaway,1e5,>=50
+Jeffrey P Bezos,Amazon.com,85e3,<50
+Eric E Schmidt,Google,3e4,>=50
+Steven P Jobs,Apple Computer,0.0,>=50
+Richard D Kinder,Kinder Morgan,0.0,>=50
+Michael T Fries,Liberty Global,NA,<50
+A Jerrold Perenchio,Univision Commun,0.0,>=50
+James E Rogers,Duke Energy,NA,>=50
+H Garrett Thornburg Jr,Thornburg Mortgage,NA,>=50

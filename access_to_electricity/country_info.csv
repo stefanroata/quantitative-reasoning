@@ -1,0 +1,194 @@
+country_name,continent,population,access_to_electricity_percent
+Burundi,Africa,11890784,7.59
+Comoros,Africa,869601,77.8
+Djibouti,Africa,988000,51.8
+Eritrea,Africa,3546421,46.7
+Ethiopia,Africa,114963588,42.9
+Kenya,Africa,53771296,56
+Madagascar,Africa,27691018,22.9
+Malawi,Africa,19129952,11
+Mauritius,Africa,1271768,98.8
+Mozambique,Africa,31255435,24.2
+Rwanda,Africa,12952218,29.4
+Seychelles,Africa,98347,100
+Somalia,Africa,15893222,29.9
+South Sudan,Africa,11193725,8.95
+Uganda,Africa,45741007,26.7
+United Republic of Tanzania,Africa,59734218,32.8
+Zambia,Africa,18383955,27.2
+Zimbabwe,Africa,14862924,38.1
+Angola,Africa,32866271.999999996,40.5
+Cameroon,Africa,26545863,60.1
+Central African Republic,Africa,4829767,14
+Chad,Africa,16425864.000000002,8.83
+Congo,Africa,5518087,56.6
+Democratic Republic of the Congo,Africa,89561403,17.1
+Equatorial Guinea,Africa,1402985,67.9
+Gabon,Africa,2225734,91.4
+Sao Tome and Principe,Africa,219159,65.4
+Botswana,Africa,2351627,60.7
+Lesotho,Africa,2142249,29.7
+Namibia,Africa,2540905,51.8
+South Africa,Africa,59308690,84.2
+Benin,Africa,12123200,41.4
+Burkina Faso,Africa,20903273,19.2
+Cabo Verde,Africa,555987,92.6
+Côte d'Ivoire,Africa,26378274,64.3
+Gambia,Africa,2416668,47.8
+Ghana,Africa,31072940,79.3
+Guinea,Africa,13132795,33.5
+Guinea-Bissau,Africa,1968001,14.7
+Liberia,Africa,5057681,19.8
+Mali,Africa,20250833,35.1
+Mauritania,Africa,4649658,41.7
+Niger,Africa,24206644,16.2
+Nigeria,Africa,206139589,59.3
+Senegal,Africa,16743927,64.5
+Sierra Leone,Africa,7976983,20.3
+Togo,Africa,8278724,46.9
+Algeria,Africa,43851044,99.4
+Egypt,Africa,102334404,100
+Libya,Africa,6871292,98.5
+Morocco,Africa,36910560,100
+Sudan,Africa,43849260,38.5
+Tunisia,Africa,11818619,100
+Armenia,Asia,2963243,100
+Azerbaijan,Asia,10139177,100
+Bahrain,Asia,1701575,100
+Cyprus,Asia,1207359,100
+Georgia,Asia,3989167,100
+Iraq,Asia,40222493,100
+Israel,Asia,8655535,100
+Jordan,Asia,10203134,100
+Kuwait,Asia,4270571,100
+Lebanon,Asia,6825445,100
+Oman,Asia,5106626,100
+Qatar,Asia,2881053,100
+Saudi Arabia,Asia,34813871,100
+State of Palestine,Asia,5101414,100
+Syrian Arab Republic,Asia,17500658,100
+Turkey,Asia,84339067,100
+United Arab Emirates,Asia,9890402,100
+Yemen,Asia,29825964,71.6
+Kazakhstan,Asia,18776707,100
+Kyrgyzstan,Asia,6524195,100
+Tajikistan,Asia,9537645,100
+Turkmenistan,Asia,6031200,100
+Uzbekistan,Asia,33469203,100
+Afghanistan,Asia,38928346,84.1
+Bangladesh,Asia,164689383,75.9
+Bhutan,Asia,771608,100
+India,Asia,1380004385,84.5
+Iran (Islamic Republic of),Asia,83992949,100
+Maldives,Asia,540544,100
+Nepal,Asia,29136808,90.7
+Pakistan,Asia,220892340,99.1
+Sri Lanka,Asia,21413249,95.6
+China,Asia,1439323776,100
+Dem. People's Republic of Korea,Asia,25778816,39.2
+Japan,Asia,126476461,100
+Mongolia,Asia,3278290,81.8
+Republic of Korea,Asia,51269185,100
+Brunei Darussalam,Asia,437479,100
+Cambodia,Asia,16718965,49.8
+Indonesia,Asia,273523615,97.6
+Lao People's Democratic Republic,Asia,7275560,87.1
+Malaysia,Asia,32365999,100
+Myanmar,Asia,54409800,57
+Philippines,Asia,109581078,91
+Singapore,Asia,5850342,100
+Thailand,Asia,69799978,100
+Timor-Leste,Asia,1318445,63.4
+Viet Nam,Asia,97338579,100
+Antigua and Barbuda,Americas,97929,97.4
+Bahamas,Americas,393244,100
+Barbados,Americas,287375,100
+Cuba,Americas,11326616,100
+Dominica,Americas,71986,100
+Dominican Republic,Americas,10847910,100
+Grenada,Americas,112523,92.3
+Haiti,Americas,11402528,38.7
+Jamaica,Americas,2961167,98.2
+Saint Kitts and Nevis,Americas,53199,100
+Saint Lucia,Americas,183627,97.8
+Saint Vincent and the Grenadines,Americas,110940,100
+Trinidad and Tobago,Americas,1399488,100
+Belize,Americas,397628,92.2
+Costa Rica,Americas,5094118,100
+El Salvador,Americas,6486205,98.6
+Guatemala,Americas,17915568,91.8
+Honduras,Americas,9904607,87.6
+Mexico,Americas,128932753,100
+Nicaragua,Americas,6624554,81.8
+Panama,Americas,4314767,93.4
+Argentina,Americas,45195774,100
+Bolivia (Plurinational State of),Americas,11673021,93
+Brazil,Americas,212559417,100
+Chile,Americas,19116201,100
+Colombia,Americas,50882891,99
+Ecuador,Americas,17643054,99.9
+Guyana,Americas,786552,84.2
+Paraguay,Americas,7132538,98.4
+Peru,Americas,32971854,94.9
+Suriname,Americas,586632,87.2
+Uruguay,Americas,3473730,100
+Venezuela (Bolivarian Republic of),Americas,28435940,99.6
+Australia,Oceania,25499884,100
+New Zealand,Oceania,4822233,100
+Fiji,Oceania,896445,98.6
+Papua New Guinea,Oceania,8947024,22.9
+Solomon Islands,Oceania,686884,47.9
+Vanuatu,Oceania,307145,57.8
+Kiribati,Oceania,119449,84.9
+Marshall Islands,Oceania,59190,93.1
+Micronesia (Fed. States of),Oceania,115023,75.4
+Nauru,Oceania,10824,99.2
+Palau,Oceania,18094,99.3
+Samoa,Oceania,198414,100
+Tonga,Oceania,105695,97
+Tuvalu,Oceania,11792,99.4
+Belarus,Europe,9449323,100
+Bulgaria,Europe,6948445,100
+Czechia,Europe,10708981,100
+Hungary,Europe,9660351,100
+Poland,Europe,37846611,100
+Republic of Moldova,Europe,4033963,100
+Romania,Europe,19237691,100
+Russian Federation,Europe,145934462,100
+Slovakia,Europe,5459642,100
+Ukraine,Europe,43733762,100
+Denmark,Europe,5792202,100
+Estonia,Europe,1326535,100
+Finland,Europe,5540720,100
+Iceland,Europe,341243,100
+Ireland,Europe,4937786,100
+Latvia,Europe,1886198,100
+Lithuania,Europe,2722289,100
+Norway,Europe,5421241,100
+Sweden,Europe,10099265,100
+United Kingdom,Europe,67886011,100
+Albania,Europe,2877797,100
+Andorra,Europe,77265,100
+Bosnia and Herzegovina,Europe,3280819,100
+Croatia,Europe,4105267,100
+Greece,Europe,10423054,100
+Italy,Europe,60461826,100
+Malta,Europe,441543,100
+Montenegro,Europe,628066,100
+North Macedonia,Europe,2083373.9999999998,100
+Portugal,Europe,10196709,100
+San Marino,Europe,33931,100
+Serbia,Europe,8737371,100
+Slovenia,Europe,2078938,100
+Spain,Europe,46754778,100
+Austria,Europe,9006398,100
+Belgium,Europe,11589623,100
+France,Europe,65273511,100
+Germany,Europe,83783942,100
+Liechtenstein,Europe,38128,100
+Luxembourg,Europe,625978,100
+Monaco,Europe,39242,100
+Netherlands,Europe,17134872,100
+Switzerland,Europe,8654622,100
+Canada,Americas,37742154,100
+United States of America,Americas,331002651,100
